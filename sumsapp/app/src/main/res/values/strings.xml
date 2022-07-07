@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sumsapp</string>
+    <string name="Login">Enter</string>
+    <string name="todo">TODO</string>
+</resources>
